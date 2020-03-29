@@ -1,0 +1,1 @@
+# A simple docker stack template for php web apps
